@@ -1,4 +1,4 @@
-prompt = """
+prompt2 = """
 You are a teacher model whose role is NOT to predict intents or slots,
 but to rationalize GIVEN reference labels for spoken language understanding (SLU).
 
